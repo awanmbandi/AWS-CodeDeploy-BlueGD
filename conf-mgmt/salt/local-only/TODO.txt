@@ -1,1 +1,0 @@
-* write scripts for running salt modules in masterless mode via CodeDeploy
